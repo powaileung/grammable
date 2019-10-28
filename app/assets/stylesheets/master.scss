@@ -74,8 +74,8 @@ input {
   margin-top: 10px;
 }
 
-.input.boolean {
-  margin-left: 18px;
+.form-check-input {
+  margin-left: 0px;
   margin-top: 5px;
 }
 
@@ -84,3 +84,9 @@ input {
   line-height: 44px;
 }
 
+.gram-actions a {
+  font-weight: bold;
+  font-size: 16px;
+  margin-right: 20px;
+  margin-left: auto;
+}
